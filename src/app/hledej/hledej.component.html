@@ -1,0 +1,30 @@
+<div class="container hledani">
+  <div class="input-group m-3">
+    <input type="text" class="form-control" [(ngModel)]="napsanyVyraz" placeholder="Zadejte hledaný výraz">
+    <div class="input-group-append">
+      <button class="btn btn-outline-secondary" (click)="hledejNaGoogle()" type="button">
+        <i class="bi-search" style="font-size: 1rem; color: cornflowerblue;"></i>
+      </button>
+    </div>
+  </div>
+
+  <h2 *ngIf="chybaHledani.chyba"> {{ chybaHledani.hlaska }} </h2>
+
+  <div *ngIf="!chybaHledani.chyba" id="oblastTisku">
+    <h2 >Výsledky hledání pro výraz "<i>{{ predchoziHledanyVyraz }}</i> " :</h2>
+
+    <mat-card *ngFor="let item of vysledkyHledani">
+      <a href="{{ item.link }}">
+        <mat-card-title>
+          {{ item.title }}
+        </mat-card-title>
+        <mat-card-subtitle>
+          {{ item.snippet }}
+        </mat-card-subtitle>
+      </a>
+    </mat-card>
+  </div>
+</div>
+<div class="container uloz-jako" *ngIf="!chybaHledani.chyba">
+  <app-ulozjako ></app-ulozjako>
+</div>

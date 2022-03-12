@@ -1,0 +1,474 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - auto",
+        "totalResults": "4410",
+        "searchTerms": "auto",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "5a93c3183506f4fe1"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - auto",
+        "totalResults": "4410",
+        "searchTerms": "auto",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "5a93c3183506f4fe1"
+      }
+    ]
+  },
+  "context": {
+    "title": "Google.cz"
+  },
+  "searchInformation": {
+    "searchTime": 0.348724,
+    "formattedSearchTime": "0.35",
+    "totalResults": "4410",
+    "formattedTotalResults": "4,410"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Louda Auto SpA - Google Maps",
+      "htmlTitle": "Louda \u003cb\u003eAuto\u003c/b\u003e SpA - Google Maps",
+      "link": "https://www.google.cz/maps/@50.054624,15.770055,3a,75y,64.96h,73.09t/data=!3m5!1e1!3m3!1sh_nbml4W73QAAAQfDPyu1w!2e0!3e2",
+      "displayLink": "www.google.cz",
+      "snippet": "Louda Auto SpA. See inside - Dec 2015. Photo Path. Rotate the view. Ctrl + mouse drag for full 3D. Zoom. Show slider. Hide slider. Satellite. Add a photo.",
+      "htmlSnippet": "Louda \u003cb\u003eAuto\u003c/b\u003e SpA. See inside - Dec 2015. Photo Path. Rotate the view. Ctrl + mouse drag for full 3D. Zoom. Show slider. Hide slider. Satellite. Add a photo.",
+      "cacheId": "0D-0sCBvZEEJ",
+      "formattedUrl": "https://www.google.cz/.../data=!3m5!1e1!3m3!1sh_ nbml4W73QAAAQfDPyu1w!2e0!3e2",
+      "htmlFormattedUrl": "https://www.google.cz/.../data=!3m5!1e1!3m3!1sh_ nbml4W73QAAAQfDPyu1w!2e0!3e2",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://maps.google.com/maps/api/staticmap?center=50.054624%2C15.770055&zoom=24&size=256x256&language=en&sensor=false&client=google-maps-frontend&signature=2lKzyxgrOg2aeEVjA4mK4rTcG8c",
+            "og:image:width": "256",
+            "twitter:card": "summary",
+            "og:site_name": "Google Maps",
+            "viewport": "initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "og:title": "Google Maps",
+            "og:image:height": "256",
+            "google": "notranslate",
+            "og:description": "Find local businesses, view maps and get driving directions in Google Maps."
+          }
+        ],
+        "place": [
+          {
+            "image": "https://maps.google.com/maps/api/staticmap?center=50.054624%2C15.770055&zoom=24&size=256x256&language=en&sensor=false&client=google-maps-frontend&signature=2lKzyxgrOg2aeEVjA4mK4rTcG8c",
+            "name": "Google Maps",
+            "description": "Find local businesses, view maps and get driving directions in Google Maps."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.google.com/maps/api/staticmap?center=50.054624%2C15.770055&zoom=24&size=256x256&language=en&sensor=false&client=google-maps-frontend&signature=2lKzyxgrOg2aeEVjA4mK4rTcG8c"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Google Ad Traffic Quality",
+      "htmlTitle": "Google Ad Traffic Quality",
+      "link": "http://www.google.cz/ads/adtrafficquality/advertisers/best-practices-for-generating-leads.html",
+      "displayLink": "www.google.cz",
+      "snippet": "Correct use of the auto-tagging feature in Google Analytics (or other web analytics software) and Google Ads or Floodlight in Google Display & Video 360 can ...",
+      "htmlSnippet": "Correct use of the \u003cb\u003eauto\u003c/b\u003e-tagging feature in Google Analytics (or other web analytics software) and Google Ads or Floodlight in Google Display &amp; Video 360 can&nbsp;...",
+      "cacheId": "uzAmrNNGeckJ",
+      "formattedUrl": "www.google.cz/ads/adtrafficquality/.../best-practices-for-generating-leads. html",
+      "htmlFormattedUrl": "www.google.cz/ads/adtrafficquality/.../best-practices-for-generating-leads. html",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTNIY4oDQHXPVz99NHQ-MjKlXMvQqLUE8vYDEnQh4BxbLF1bE48x7hmPn0",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "no-referrer",
+            "viewport": "initial-scale=1, minimum-scale=1, width=device-width"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh3.googleusercontent.com/RHLcy-dbwjoG1bfRxjjfHnrtI2YjEsuQELQq-b4-iSSSW1BWOAepow1L1drmJJisR1amy_Z-yA7w88RT0yy7-3fWfuYJL3WJa0h6Uw=w1800-l100-sg-rj-c0xffffff"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mapy Google",
+      "htmlTitle": "Mapy Google",
+      "link": "https://www.google.cz/maps/dir//Podlipn%C3%A1+140%2F25,+620+00+Brno/@49.1813724,16.6031776,13z/data=!4m9!4m8!1m0!1m5!1m1!1s0x4712eabaf5093d13:0xbf16b76681825be3!2m2!1d16.6650306!2d49.1486805!3e0?hl=cs",
+      "displayLink": "www.google.cz",
+      "snippet": "Klepnutím zobrazíte rychlé akce. Pokračujte v aplikaci. Získejte navigaci v reálném čase a další ...",
+      "htmlSnippet": "Klepnutím zobrazíte rychlé akce. Pokračujte v aplikaci. Získejte navigaci v reálném čase a další&nbsp;...",
+      "cacheId": "K4x4e1qgNfcJ",
+      "formattedUrl": "https://www.google.cz/.../data= !4m9!4m8!1m0!1m5!1m1!1s0x4712eabaf5093d13: ...",
+      "htmlFormattedUrl": "https://www.google.cz/.../data= !4m9!4m8!1m0!1m5!1m1!1s0x4712eabaf5093d13: ...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs",
+            "width": "204",
+            "height": "247"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "twitter:card": "summary",
+            "theme-color": "#3367d6",
+            "viewport": "initial-scale=1.0, user-scalable=no",
+            "google": "notranslate"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mercedes-Benz VSP Auto, s.r.o. – Mapy Google",
+      "htmlTitle": "Mercedes-Benz VSP \u003cb\u003eAuto\u003c/b\u003e, s.r.o. – Mapy Google",
+      "link": "https://www.google.cz/maps/@49.7353051,13.3263607,3a,75y,330.9h,98.64t/data=!3m7!1e1!3m5!1sKGIE7HlsoVMAAAQfCUNwfg!2e0!3e2!7i13312!8i6656?hl=cs",
+      "displayLink": "www.google.cz",
+      "snippet": "Mapy Google umožňují vyhledat místní firmy, zobrazit mapy a najít trasy.",
+      "htmlSnippet": "Mapy Google umožňují vyhledat místní firmy, zobrazit mapy a najít trasy.",
+      "cacheId": "hw4_ndLcfukJ",
+      "formattedUrl": "https://www.google.cz/.../data= !3m7!1e1!3m5!1sKGIE7HlsoVMAAAQfCUNwfg!2e0!3e2!7i13312!8i665...",
+      "htmlFormattedUrl": "https://www.google.cz/.../data= !3m7!1e1!3m5!1sKGIE7HlsoVMAAAQfCUNwfg!2e0!3e2!7i13312!8i665...",
+      "pagemap": {
+        "metatags": [
+          {
+            "referrer": "origin",
+            "og:image": "https://maps.google.com/maps/api/staticmap?center=49.7353051%2C13.3263607&zoom=24&size=256x256&language=cs&sensor=false&client=google-maps-frontend&signature=wChEa-dV73oUxrACwmYps9f1LNw",
+            "og:image:width": "256",
+            "twitter:card": "summary",
+            "og:site_name": "Mapy Google",
+            "viewport": "initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no",
+            "og:title": "Mapy Google",
+            "og:image:height": "256",
+            "google": "notranslate",
+            "og:description": "Mapy Google umožňují vyhledat místní firmy, zobrazit mapy a najít trasy."
+          }
+        ],
+        "place": [
+          {
+            "image": "https://maps.google.com/maps/api/staticmap?center=49.7353051%2C13.3263607&zoom=24&size=256x256&language=cs&sensor=false&client=google-maps-frontend&signature=wChEa-dV73oUxrACwmYps9f1LNw",
+            "name": "Mapy Google",
+            "description": "Mapy Google umožňují vyhledat místní firmy, zobrazit mapy a najít trasy."
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.google.com/maps/api/staticmap?center=49.7353051%2C13.3263607&zoom=24&size=256x256&language=cs&sensor=false&client=google-maps-frontend&signature=wChEa-dV73oUxrACwmYps9f1LNw"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Fotky Street View pocházejí ze dvou zdrojů – od Googlu a od našich ...",
+      "htmlTitle": "Fotky Street View pocházejí ze dvou zdrojů – od Googlu a od našich ...",
+      "link": "https://www.google.cz/intl/cs/streetview/explore/",
+      "displayLink": "www.google.cz",
+      "snippet": "Auto Street View. Od prvního spuštění Street View v USA v roce 2007 jsme urazili dlouhou cestu. Dnes naše síť 360° snímků zahrnuje místa na všech sedmi ...",
+      "htmlSnippet": "\u003cb\u003eAuto\u003c/b\u003e Street View. Od prvního spuštění Street View v USA v roce 2007 jsme urazili dlouhou cestu. Dnes naše síť 360° snímků zahrnuje místa na všech sedmi&nbsp;...",
+      "cacheId": "XOQZkwdK7YUJ",
+      "formattedUrl": "https://www.google.cz/intl/cs/streetview/explore/",
+      "htmlFormattedUrl": "https://www.google.cz/intl/cs/streetview/explore/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQX1cLnZUu-Z14c7gxGcW3xIlVMEd3eROiW7M7zCz3JXcLOe_GqP4QDRpvZ",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://lh3.googleusercontent.com/3wxVX9CvVROw7gEVATEnkFjrA8OcDsAVapJF30CDDZ9N59CcfiEVJzZKo4bK09csdyMTVBefdasBZemIfjEYOh6lQnS315OmlMCl=s0",
+            "apple-itunes-app": "app-id=904418768",
+            "twitter:title": "Fotky Street View pocházejí ze dvou zdrojů – od Googlu a od našich přispěvatelů.",
+            "twitter:card": "summary",
+            "og:type": "article",
+            "og:site_name": "Google Maps Street View",
+            "og:title": "Fotky Street View pocházejí ze dvou zdrojů – od Googlu a od našich přispěvatelů.",
+            "og:description": "Přečtěte si více o tom, co Street View je, kde se nachází a kam směřuje. Za možností sdílení snímků ve Street View stojí náš technický tým a jeho pečlivá práce.",
+            "twitter:image:src": "https://lh3.googleusercontent.com/peyT6rCarwklZzaRyoQV6x0yOxc5VcVDdG6scCjtLfUHs5jgBSuW09vgGkuB0Ij1mXefjB2Fb1cyOksIW6nqxWDd2-chCYvLFz9l=s0",
+            "referrer": "no-referrer",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@googlemaps",
+            "viewport": "initial-scale=1, minimum-scale=1, width=device-width",
+            "twitter:description": "Přečtěte si více o tom, co Street View je, kde se nachází a kam směřuje. Za možností sdílení snímků ve Street View stojí náš technický tým a jeho pečlivá práce.",
+            "apple-mobile-web-app-capable": "yes"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh3.googleusercontent.com/3wxVX9CvVROw7gEVATEnkFjrA8OcDsAVapJF30CDDZ9N59CcfiEVJzZKo4bK09csdyMTVBefdasBZemIfjEYOh6lQnS315OmlMCl=s0"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Auto-Camping Park Jelenia Gora",
+      "htmlTitle": "\u003cb\u003eAuto\u003c/b\u003e-Camping Park Jelenia Gora",
+      "link": "https://www.google.cz/travel/hotels/entity/ChgI2pHzmYX-1NzXARoLL2cvMXRsenl4NHYQAQ?utm_campaign=sharing&utm_medium=link&utm_source=htls&rp=OAFIAg&ap=MAA&ts=CAESCgoCCAMKAggDEAAaVwo5EjUyJDB4NDcwZmFhMjJiMjk4NDNmMToweDEwMjBlMzJhZDBlYzAyMDoNRG9sbm9zbGV6c2vDqRoAEhoSFAoHCOUPEAwYCRIHCOUPEAwYChgBMgIQACoLCgcoAToDVVNEGgA&sa=X&ei=8vsHYvrkNI_C3gH50azoCA&ei=3RUIYumgNcKFnwbK2prIBQ&ei=QiwMYpHQEeeYrcUPpY-CgAs&ved=2ahUKEwiR-dny44L2AhVnTKsCHaWHALAQv6wDKAN6BQgCEJwB",
+      "displayLink": "www.google.cz",
+      "snippet": "Auto-Camping Park Jelenia Gora. 4,2. (460). Volat. Trasa. Web. Rezervace pokoje. Přehled. Ceny. Recenze. Místo. Fotky. Informace. Parkování zdarma.",
+      "htmlSnippet": "\u003cb\u003eAuto\u003c/b\u003e-Camping Park Jelenia Gora. 4,2. (460). Volat. Trasa. Web. Rezervace pokoje. Přehled. Ceny. Recenze. Místo. Fotky. Informace. Parkování zdarma.",
+      "formattedUrl": "https://www.google.cz/.../ChgI2pHzmYX- 1NzXARoLL2cvMXRsenl4NHYQAQ?...",
+      "htmlFormattedUrl": "https://www.google.cz/.../ChgI2pHzmYX- 1NzXARoLL2cvMXRsenl4NHYQAQ?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShI9_FhTG3E73JwmfGtdxqLBHvHCfcBALOYpNYcFKIp7HWx3q48dJP0VQ",
+            "width": "272",
+            "height": "185"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Cestování",
+            "og:image": "https://lh5.googleusercontent.com/p/AF1QipOD2JluvdO6Ax8O4em6Q64OJb_PjIvAxc0Vaq8n=w296-h202-n-k-no-v1",
+            "og:type": "website",
+            "og:image:width": "296",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Auto-Camping Park Jelenia Gora 4,2 ★ (460)",
+            "mod": "true",
+            "og:site_name": "Vyhledávání hotelů Google",
+            "apple-mobile-web-app-title": "Cestování",
+            "og:title": "Auto-Camping Park Jelenia Gora 4,2 ★ (460)",
+            "og:image:height": "202",
+            "og:description": "39 US$ · 2.–3. 3. · 2 hosté",
+            "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipOD2JluvdO6Ax8O4em6Q64OJb_PjIvAxc0Vaq8n=w296-h202-n-k-no-v1",
+            "referrer": "origin",
+            "twitter:image:alt": "Auto-Camping Park Jelenia Gora 4,2 ★ (460)",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "39 US$ · 2.–3. 3. · 2 hosté",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "cs",
+            "og:url": "https://www.google.com/travel/hotels/entity/ChgI2pHzmYX-1NzXARoLL2cvMXRsenl4NHYQAQ?g2lb=4356900"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh5.googleusercontent.com/p/AF1QipOD2JluvdO6Ax8O4em6Q64OJb_PjIvAxc0Vaq8n=w296-h202-n-k-no-v1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ŠKODA Museum",
+      "htmlTitle": "ŠKODA Museum",
+      "link": "https://www.google.cz/travel/entity/key/ChcIysyh856vsOrUARoKL20vMGc5eThyeRAE?ei=l5ZHYeXpH62I8LAP6NGH0AM&sa=X&ved=2ahUKEwilkebM6YvzAhUtBBwAHejoAToQxosIegUIARDsAQ",
+      "displayLink": "www.google.cz",
+      "snippet": "... vystavuje okolo 500 exponátů, včetně 46 automobilů, řady motocyklů a jízdních kol z dlouhé historie firmy Škoda Auto a jejího předchůdce Laurin & Klement.",
+      "htmlSnippet": "... vystavuje okolo 500 exponátů, včetně 46 automobilů, řady motocyklů a jízdních kol z dlouhé historie firmy Škoda \u003cb\u003eAuto\u003c/b\u003e a jejího předchůdce Laurin &amp; Klement.",
+      "cacheId": "Xu9KV-YjJbcJ",
+      "formattedUrl": "https://www.google.cz/.../ChcIysyh856vsOrUARoKL20vMGc5eThyeRAE?...",
+      "htmlFormattedUrl": "https://www.google.cz/.../ChcIysyh856vsOrUARoKL20vMGc5eThyeRAE?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSeQUe5Mqymq_mI5mzsKqBrkpBwnmWyOMaACNRkQroK5Cs_81vZnVRxY0-_",
+            "width": "272",
+            "height": "185"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Cestování",
+            "og:image": "https://lh5.googleusercontent.com/p/AF1QipOS32IflVvSvTvNfLVxytJhq--qv9o68qClxsUw=w296-h202-n-k-no-v1",
+            "og:type": "website",
+            "og:image:width": "296",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "ŠKODA Museum 4,6 ★ (7 615)",
+            "mod": "true",
+            "og:site_name": "Vyhledávání hotelů Google",
+            "apple-mobile-web-app-title": "Cestování",
+            "og:title": "ŠKODA Museum 4,6 ★ (7 615)",
+            "og:image:height": "202",
+            "og:description": "Škoda Muzeum v Mladé Boleslavi je firemní automobilové muzeum, umístěné v blízkosti OD Bondycentrum a autobusového nádraží na Třídě V. Klementa. Na ploše 1800 m² vystavuje okolo 500 exponátů, včetně 46 automobilů, řady motocyklů a jízdních kol z dlouhé historie firmy Škoda Auto a jejího předchůdce Laurin & Klement.",
+            "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipOS32IflVvSvTvNfLVxytJhq--qv9o68qClxsUw=w296-h202-n-k-no-v1",
+            "referrer": "origin",
+            "twitter:image:alt": "ŠKODA Museum 4,6 ★ (7 615)",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Škoda Muzeum v Mladé Boleslavi je firemní automobilové muzeum, umístěné v blízkosti OD Bondycentrum a autobusového nádraží na Třídě V. Klementa. Na ploše 1800 m² vystavuje okolo 500 exponátů, včetně 46 automobilů, řady motocyklů a jízdních kol z dlouhé historie firmy Škoda Auto a jejího předchůdce Laurin & Klement.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "cs",
+            "og:url": "https://www.google.com/travel/hotels/entity/ChcIysyh856vsOrUARoKL20vMGc5eThyeRAE?g2lb=4356900"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh5.googleusercontent.com/p/AF1QipOS32IflVvSvTvNfLVxytJhq--qv9o68qClxsUw=w296-h202-n-k-no-v1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "ŠKODA Muzeum",
+      "htmlTitle": "ŠKODA Muzeum",
+      "link": "https://www.google.cz/travel/entity/key/ChcIysyh856vsOrUARoKL20vMGc5eThyeRAE?sa=X&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjlDxALGA4SBwjlDxALGA8YATICEAAqCQoFOgNVU0QaAA&ei=e-PnYZbCD6CQ1r0PhIqbmA8&ved=2ahUKEwjW6922yb31AhUgiLUBHQTFBvMQxosIegUIARDIAQ",
+      "displayLink": "www.google.cz",
+      "snippet": "... vystavuje okolo 500 exponátů, včetně 46 automobilů, řady motocyklů a jízdních kol z dlouhé historie firmy Škoda Auto a jejího předchůdce Laurin & Klement.",
+      "htmlSnippet": "... vystavuje okolo 500 exponátů, včetně 46 automobilů, řady motocyklů a jízdních kol z dlouhé historie firmy Škoda \u003cb\u003eAuto\u003c/b\u003e a jejího předchůdce Laurin &amp; Klement.",
+      "cacheId": "rwB-EiLoXxQJ",
+      "formattedUrl": "https://www.google.cz/.../ChcIysyh856vsOrUARoKL20vMGc5eThyeRAE?...",
+      "htmlFormattedUrl": "https://www.google.cz/.../ChcIysyh856vsOrUARoKL20vMGc5eThyeRAE?...",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJPtni4W0uc7E8jCp9p1vg3_lJW-IQX0SOLUOZkzwMbYXwUQtY6Z26VYE",
+            "width": "272",
+            "height": "185"
+          }
+        ],
+        "metatags": [
+          {
+            "application-name": "Cestování",
+            "og:image": "https://lh5.googleusercontent.com/p/AF1QipPsza2j8VqAESdTa0z3acQ1SomrN-uICcAwalkc=w296-h202-n-k-no-v1",
+            "og:type": "website",
+            "og:image:width": "296",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "ŠKODA Muzeum 4,6 ★ (7 762)",
+            "mod": "true",
+            "og:site_name": "Vyhledávání hotelů Google",
+            "apple-mobile-web-app-title": "Cestování",
+            "og:title": "ŠKODA Muzeum 4,6 ★ (7 762)",
+            "og:image:height": "202",
+            "og:description": "Škoda Muzeum v Mladé Boleslavi je firemní automobilové muzeum, umístěné v blízkosti OD Bondycentrum a autobusového nádraží na Třídě V. Klementa. Na ploše 1800 m² vystavuje okolo 500 exponátů, včetně 46 automobilů, řady motocyklů a jízdních kol z dlouhé historie firmy Škoda Auto a jejího předchůdce Laurin & Klement.",
+            "twitter:image": "https://lh5.googleusercontent.com/p/AF1QipPsza2j8VqAESdTa0z3acQ1SomrN-uICcAwalkc=w296-h202-n-k-no-v1",
+            "referrer": "origin",
+            "twitter:image:alt": "ŠKODA Muzeum 4,6 ★ (7 762)",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "msapplication-tap-highlight": "no",
+            "viewport": "width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no",
+            "apple-mobile-web-app-capable": "yes",
+            "twitter:description": "Škoda Muzeum v Mladé Boleslavi je firemní automobilové muzeum, umístěné v blízkosti OD Bondycentrum a autobusového nádraží na Třídě V. Klementa. Na ploše 1800 m² vystavuje okolo 500 exponátů, včetně 46 automobilů, řady motocyklů a jízdních kol z dlouhé historie firmy Škoda Auto a jejího předchůdce Laurin & Klement.",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "cs",
+            "og:url": "https://www.google.com/travel/hotels/entity/ChcIysyh856vsOrUARoKL20vMGc5eThyeRAE?g2lb=4356900"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://lh5.googleusercontent.com/p/AF1QipPsza2j8VqAESdTa0z3acQ1SomrN-uICcAwalkc=w296-h202-n-k-no-v1"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Mapy Google",
+      "htmlTitle": "Mapy Google",
+      "link": "https://www.google.cz/maps/?hl=cs&tab=wl&ucbcb=1",
+      "displayLink": "www.google.cz",
+      "snippet": "Vaše poloha. Trasa. Autem. Pěšky. Na kole. Veřejná doprava. Vše. Autobus. Metro. Vlak. Místa v okolí. Restaurace. Čerpací stanice. Bankomaty. Nakupování.",
+      "htmlSnippet": "Vaše poloha. Trasa. Autem. Pěšky. Na kole. Veřejná doprava. Vše. Autobus. Metro. Vlak. Místa v okolí. Restaurace. Čerpací stanice. Bankomaty. Nakupování.",
+      "cacheId": "PPmFnvI6j44J",
+      "formattedUrl": "https://www.google.cz/maps/?hl=cs&tab=wl&ucbcb=1",
+      "htmlFormattedUrl": "https://www.google.cz/maps/?hl=cs&amp;tab=wl&amp;ucbcb=1",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQUDTMfgWSotdHvbOKW4AmY1steqsilnDJS4q33zGx-d0AXvvxPiFY9Mvs",
+            "width": "204",
+            "height": "247"
+          }
+        ],
+        "metatags": [
+          {
+            "referrer": "origin",
+            "twitter:card": "summary",
+            "theme-color": "#3367d6",
+            "viewport": "initial-scale=1.0, user-scalable=no",
+            "google": "notranslate"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://maps.gstatic.com/tactile/basepage/pegman_sherlock.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Areál ZOD Vigantice - Google My Maps",
+      "htmlTitle": "Areál ZOD Vigantice - Google My Maps",
+      "link": "https://www.google.cz/maps/ms?msa=0&msid=200508160215398602239.0004f5aaabef9310bbd69&hl=en&brcurrent=5,0,0&ie=UTF8&t=h&ll=49.445176,18.184344&spn=0.000523,0.00107&z=19&output=embed",
+      "displayLink": "www.google.cz",
+      "snippet": "12. 6. 2015 ... Open full screen to view more. Areál ZOD Vigantice. Collapse map legend. Map details. Copy map. Zoom to viewport. Embed map. Download KML.",
+      "htmlSnippet": "12. 6. 2015 \u003cb\u003e...\u003c/b\u003e Open full screen to view more. Areál ZOD Vigantice. Collapse map legend. Map details. Copy map. Zoom to viewport. Embed map. Download KML.",
+      "cacheId": "7zQm2FbfI34J",
+      "formattedUrl": "https://www.google.cz/maps/ms?msa=0...",
+      "htmlFormattedUrl": "https://www.google.cz/maps/ms?msa=0...",
+      "pagemap": {
+        "website": [
+          {
+            "image": "https://www.google.com/maps/d/thumbnail?mid=1yMMDmHOhtni0oE0T68Ri_2XdqlM&hl=en",
+            "name": "Areál ZOD Vigantice - Google My Maps",
+            "description": "Areál ZOD Vigantice",
+            "url": "https://www.google.com/maps/d/viewer?mid=1yMMDmHOhtni0oE0T68Ri_2XdqlM&hl=en"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://www.google.com/maps/d/thumbnail?mid=1yMMDmHOhtni0oE0T68Ri_2XdqlM&hl=en",
+            "apple-itunes-app": "app-id=585027354, app-argument=comgooglemaps://?mapsurl=https://www.google.com/mymaps/viewer?mid%3D1yMMDmHOhtni0oE0T68Ri_2XdqlM%26hl%3Den",
+            "og:type": "website",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "Areál ZOD Vigantice - Google My Maps",
+            "og:site_name": "Google My Maps",
+            "viewport": "initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=0,width=device-width",
+            "twitter:description": "Areál ZOD Vigantice",
+            "og:title": "Areál ZOD Vigantice - Google My Maps",
+            "og:url": "https://www.google.com/maps/d/viewer?mid=1yMMDmHOhtni0oE0T68Ri_2XdqlM&hl=en",
+            "og:description": "Areál ZOD Vigantice",
+            "twitter:image:src": "https://www.google.com/maps/d/thumbnail?mid=1yMMDmHOhtni0oE0T68Ri_2XdqlM&hl=en"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.google.com/maps/d/thumbnail?mid=1yMMDmHOhtni0oE0T68Ri_2XdqlM&hl=en"
+          }
+        ]
+      }
+    }
+  ]
+}
